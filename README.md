@@ -1,5 +1,5 @@
 # simple-memory-game
-A simple game, where the user selects a few fields from a field zone which are needed to be remembered and reselected properly.
+A simple game, where the user selects a few fields from a field zone which are needed to be remembered and reselected properly in 5 seconds.
 
 # Usage:
 * Download the source files (they are not structured in packages to make the following steps easier for You :D).
